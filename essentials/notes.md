@@ -86,12 +86,12 @@ query {
 
 ```
 {
-	getAliens {
-	  id
+  getAliens {
+    id
     firstName
     lastName
     planet
-	}
+  }
 }
 ```
 
